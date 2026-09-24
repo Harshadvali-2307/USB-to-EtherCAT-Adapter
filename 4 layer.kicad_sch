@@ -1,0 +1,645 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "89b42b77-d1cd-4016-8ac3-3d8b209aebef")
+	(paper "A4")
+	(title_block
+		(title "USB TO ETHERCAT APATER BOARD ")
+		(date "06-03-2026")
+		(rev "v1.0")
+		(company "SURE TRUST")
+		(comment 1 "DESIGINED BY HARSHAD VALI")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 81.28 50.8) (xy 101.6 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2261dd07-e550-4464-ae9f-42374812e221")
+	)
+	(wire
+		(pts
+			(xy 81.28 66.04) (xy 101.6 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fe98e85-c245-4aea-80b4-f831266d0584")
+	)
+	(wire
+		(pts
+			(xy 81.28 59.69) (xy 101.6 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "462c8609-ac1c-44bb-9024-c80eba2aac0f")
+	)
+	(wire
+		(pts
+			(xy 81.28 93.98) (xy 101.6 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "481862f9-95b2-4c74-882a-4b2fbe8a609d")
+	)
+	(wire
+		(pts
+			(xy 81.28 74.93) (xy 101.6 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d5f2954-b24a-468e-8ba6-71d19d7c2f17")
+	)
+	(wire
+		(pts
+			(xy 81.28 90.17) (xy 101.6 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "575e9a68-c576-491a-a1ac-4c45f149f24f")
+	)
+	(wire
+		(pts
+			(xy 81.28 101.6) (xy 101.6 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57e41639-39a1-4c3b-a84c-25711327878e")
+	)
+	(wire
+		(pts
+			(xy 81.28 80.01) (xy 101.6 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d658332-6a98-47d6-bc6f-168fb4d222d9")
+	)
+	(wire
+		(pts
+			(xy 81.28 82.55) (xy 101.6 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6556d485-b24c-4c3a-97b8-90f836e8d0f0")
+	)
+	(wire
+		(pts
+			(xy 81.28 85.09) (xy 101.6 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "770952cc-9d0f-4d52-a520-c0e1010094ec")
+	)
+	(wire
+		(pts
+			(xy 81.28 97.79) (xy 101.6 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84f620b8-3c7e-4a8d-adf9-0dd7685b6340")
+	)
+	(wire
+		(pts
+			(xy 81.28 57.15) (xy 101.6 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8eeed57-7f38-4136-bfe5-81cab360fc92")
+	)
+	(wire
+		(pts
+			(xy 81.28 45.72) (xy 101.6 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b370ec74-c978-406b-9c80-1cd6b18aab2b")
+	)
+	(wire
+		(pts
+			(xy 81.28 77.47) (xy 101.6 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9a2ac30-a185-4926-a820-82c10d4de9d5")
+	)
+	(wire
+		(pts
+			(xy 81.28 69.85) (xy 101.6 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea6fc572-4d12-4eff-b7e7-52322ffcfe8f")
+	)
+	(wire
+		(pts
+			(xy 81.28 72.39) (xy 101.6 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eedf15af-1cc3-40fe-8749-c5ad0e657895")
+	)
+	(wire
+		(pts
+			(xy 81.28 62.23) (xy 101.6 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feb21e92-d2e0-4d55-b1f4-7492b810189b")
+	)
+	(wire
+		(pts
+			(xy 81.28 54.61) (xy 101.6 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff62242b-6492-46f3-8d55-16e4f27b1c4d")
+	)
+	(sheet
+		(at 36.83 38.1)
+		(size 44.45 80.01)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "93da0304-e4c7-4f39-b2d2-ad8238f904de")
+		(property "Sheetname" "MCU"
+			(at 36.83 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 36.83 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GPIO0" input
+			(at 81.28 59.69 0)
+			(uuid "66e045a8-2074-409b-b17e-73fdc5529cc9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TXPB" input
+			(at 81.28 69.85 0)
+			(uuid "0c8b28b2-c141-4ae4-955b-1078c5677950")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RXNA" input
+			(at 81.28 82.55 0)
+			(uuid "e0f48ca0-7818-4131-966a-4933487a805b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD33TXRX1" input
+			(at 81.28 45.72 0)
+			(uuid "e57a0b8c-143c-4a3c-8061-4b7f1d064b1e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCS" input
+			(at 81.28 90.17 0)
+			(uuid "e727be37-f983-4928-935a-02351c0c2865")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD33TXRX2" input
+			(at 81.28 50.8 0)
+			(uuid "199f61f6-df04-4cf4-a92d-ebe824fb2f70")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TXPA" input
+			(at 81.28 66.04 0)
+			(uuid "b41ea4e6-d86d-4229-a6c1-234e662c23b6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TXNA" input
+			(at 81.28 72.39 0)
+			(uuid "769c5208-87e6-443c-aa34-a9e04464377b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TXNB" input
+			(at 81.28 74.93 0)
+			(uuid "b34aa39f-dada-444a-9556-6191705c0b7d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RXPA" input
+			(at 81.28 77.47 0)
+			(uuid "5987c11e-2239-42c9-930b-f8776d601c97")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RXNB" input
+			(at 81.28 80.01 0)
+			(uuid "d5e4e223-026e-48e5-9d8d-aec6bb112287")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SCL" input
+			(at 81.28 54.61 0)
+			(uuid "88d8c91f-bc43-492d-921d-94ec70a8e357")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO1" input
+			(at 81.28 62.23 0)
+			(uuid "afa284ee-9c14-4aeb-a6c7-38794f60ba8a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SDA" input
+			(at 81.28 57.15 0)
+			(uuid "14536725-8dee-414a-8c89-507d24fc6621")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RXPB" input
+			(at 81.28 85.09 0)
+			(uuid "0d223ba4-cea2-41f3-8c21-55c67f65a0d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SO" input
+			(at 81.28 93.98 0)
+			(uuid "51de7c0a-3724-45e9-bb60-3257ad0791f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCK" input
+			(at 81.28 97.79 0)
+			(uuid "dcc47038-f071-4873-8d55-db53ffc023fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SI" input
+			(at 81.28 101.6 0)
+			(uuid "9a797015-be73-42dc-b7a5-80ceb2cc9dcf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "4 layer"
+				(path "/89b42b77-d1cd-4016-8ac3-3d8b209aebef"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 38.1)
+		(size 44.45 78.74)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b06e3fcd-f859-4eb1-be5b-5c38abb1a5d3")
+		(property "Sheetname" "LAN925I"
+			(at 101.6 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LAN925I.kicad_sch"
+			(at 101.6 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RXPB" input
+			(at 101.6 85.09 180)
+			(uuid "012ec4ed-3ad7-46ac-973b-59369bac9e26")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TXPB" input
+			(at 101.6 69.85 180)
+			(uuid "9df767c6-f88e-44ec-a2c1-b433bb492868")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RXPA" input
+			(at 101.6 77.47 180)
+			(uuid "b34c426d-7e8f-4492-8077-cc9d4000c15d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RXNA" input
+			(at 101.6 82.55 180)
+			(uuid "c10b1867-47f6-422b-97c3-270d71f784e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD33TXRX2" input
+			(at 101.6 50.8 180)
+			(uuid "49c28bd6-e596-459e-bdfe-5f3d9cfe0c71")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD33TXRX1" input
+			(at 101.6 45.72 180)
+			(uuid "04dc15c0-6834-433c-93bb-86bfe5a083d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TXNA" input
+			(at 101.6 72.39 180)
+			(uuid "6b51b274-8b5f-4994-a8aa-d4f6d748c97c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TXNB" input
+			(at 101.6 74.93 180)
+			(uuid "d18df671-fa49-443b-b0ef-72ed8f714813")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TXPA" input
+			(at 101.6 66.04 180)
+			(uuid "2981a7d9-52d8-4a29-bd7d-7d696977898e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RXNB" input
+			(at 101.6 80.01 180)
+			(uuid "ae5368bc-c1b5-443b-8bd8-30c6551558fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SI" input
+			(at 101.6 101.6 180)
+			(uuid "3e697034-72fe-4192-94fd-c7741a1640a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SO" input
+			(at 101.6 93.98 180)
+			(uuid "5698d906-88bf-4893-8d5f-f02f16a95be8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" input
+			(at 101.6 97.79 180)
+			(uuid "f016c0cd-d6ad-4a9d-a1cf-b1c8ef2d3d1a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCS" input
+			(at 101.6 90.17 180)
+			(uuid "95c0654e-aae8-4b03-8819-1091e473552f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SDA" input
+			(at 101.6 54.61 180)
+			(uuid "ac25cd7f-39f3-407d-a2ae-d68057f4f5fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0" input
+			(at 101.6 59.69 180)
+			(uuid "ee6871e7-f2e7-4946-89df-d459ba36dcbf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SCL" input
+			(at 101.6 57.15 180)
+			(uuid "25b2b3f0-0e09-4b5d-b083-3f0b78a4a4e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1" input
+			(at 101.6 62.23 180)
+			(uuid "2e6b2d81-9bce-484f-913c-70c14af470a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "4 layer"
+				(path "/89b42b77-d1cd-4016-8ac3-3d8b209aebef"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
